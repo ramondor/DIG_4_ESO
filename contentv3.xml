@@ -13,18 +13,18 @@
   <string role="key" value="_author"></string>
   <unicode value="José Ramón Dorado Repiso"></unicode>
   <string role="key" value="_backgroundImg"></string>
-  <instance class="exe.engine.resource.Resource" reference="74">
+  <instance class="exe.engine.resource.Resource">
    <dictionary>
     <string role="key" value="_idevice"></string>
     <none></none>
     <string role="key" value="_package"></string>
     <reference key="1"></reference>
     <string role="key" value="_storageName"></string>
-    <string value="TEC_2_ESO_Portada.png"></string>
+    <string value="Portada_DIG_4_ESO.png"></string>
     <string role="key" value="_userName"></string>
-    <string value="/tmp/tmpJIl6Lg/TEC_2_ESO_Portada.png"></string>
+    <string value="/home/usuario/Escritorio/Escritorio 2022-24/Proyecto de elaboraci\xc3\xb3n de materiales curriculares/REAS_Proyecto_Elaboracion_Materiales/DIG_4_ESO/Portada_DIG_4_ESO.png"></string>
     <string role="key" value="checksum"></string>
-    <string value="46ec3597e4dbe5eebeb1a585e03105d1"></string>
+    <string value="d875111fe06524cd4d50df4501d0bffd"></string>
     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
     <int value="2"></int>
     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -38,7 +38,7 @@
   <string role="key" value="_contextPlace"></string>
   <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
-  <unicode value="En esta SdA comenzaremos a bordar el estudio de la Computación y la Robótica para seguir avanzando en cursos posteriores. Es una programación completa para 1º de ESO de la asignatura de Computación y Robótica."></unicode>
+  <unicode value="En esta SdA abordaremos el estudio todos los criterios de evaluación de la materia Digitalización de 4º de ESO. Es una programación completa para todo el curso."></unicode>
   <string role="key" value="_docType"></string>
   <unicode value="HTML5"></unicode>
   <string role="key" value="_exportElp"></string>
@@ -102,7 +102,7 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="SdA_En_Const_DIG_4_ESO"></unicode>
+  <unicode value="SdA_DIG_4_ESO"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="32"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -190,7 +190,10 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/Portada_DIG_4.png&quot; alt=&quot;Portada CyR 1 ESO&quot; title=&quot;Portada CyR 1 ESO&quot; width=&quot;899&quot; height=&quot;444&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 900px;&quot;&gt;&lt;img src=&quot;resources/Portada_DIG_4_ESO.png&quot; alt=&quot;Portada DIG 4 ESO&quot; title=&quot;Portada DIG 4 ESO&quot; width=&quot;900&quot; height=&quot;636&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;J Ramón Dorado&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Portada DIG 4 ESO (creado con Canva a partir de una captura de la aplicación Padlet)&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -210,7 +213,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="752822"></int>
+                  <int value="752836"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -224,7 +227,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_114_2.50"></unicode>
+                <unicode value="0_114_2.53"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -233,11 +236,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="1"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="Portada_DIG_4.png"></string>
+                  <string value="Portada_DIG_4_ESO.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpJIl6Lg/Portada_DIG_4.png"></string>
+                  <string value="/tmp/tmpWzxHs1/Portada_DIG_4_ESO.png"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="c522042bb86ee70ae1ca2c0cfa597d36"></string>
+                  <string value="d875111fe06524cd4d50df4501d0bffd"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -264,7 +267,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="51"></int>
+           <int value="54"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -317,7 +320,7 @@
          <instance class="exe.engine.extendedfieldengine.FileField" reference="7">
           <dictionary>
            <string role="key" value="_id"></string>
-           <int value="83"></int>
+           <int value="752845"></int>
            <string role="key" value="_idevice"></string>
            <reference key="6"></reference>
            <string role="key" value="_instruc"></string>
@@ -334,7 +337,7 @@
            <instance class="exe.engine.field.TextField">
             <dictionary>
              <string role="key" value="_id"></string>
-             <int value="84"></int>
+             <int value="752846"></int>
              <string role="key" value="_idevice"></string>
              <reference key="7"></reference>
              <string role="key" value="_instruc"></string>
@@ -342,13 +345,13 @@
              <string role="key" value="_name"></string>
              <string value="Description"></string>
              <string role="key" value="content"></string>
-             <unicode value="DIG 4º.pdf"></unicode>
+             <unicode value="DIG_4_pdf"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
             </dictionary>
            </instance>
            <string role="key" value="fileInstruc"></string>
-           <string value="Upload a file"></string>
+           <unicode value="Subir un fichero. Elimine los caracteres especiales del nombre del fichero y la ruta del archivo."></unicode>
            <string role="key" value="fileResource"></string>
            <instance class="exe.engine.resource.Resource" reference="9">
             <dictionary>
@@ -357,11 +360,11 @@
              <string role="key" value="_package"></string>
              <reference key="1"></reference>
              <string role="key" value="_storageName"></string>
-             <string value="CyR 1o.pdf"></string>
+             <string value="DIG 4o.pdf"></string>
              <string role="key" value="_userName"></string>
-             <string value="/tmp/tmpJIl6Lg/CyR 1o.pdf"></string>
+             <string value="/home/usuario/Escritorio/CURSO_24_25/Programaciones cortas/DIG 4\xc2\xba.pdf"></string>
              <string role="key" value="checksum"></string>
-             <string value="6d76338e8573aa0bc9bed7bf6b016844"></string>
+             <string value="5e355885602c06b31aaed9e45f774a1e"></string>
              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
              <int value="2"></int>
              <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -697,7 +700,10 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/DIG_1_TRIM.png&quot; width=&quot;1350&quot; height=&quot;766&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Temporalización&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', ​Arial, Helvetica, sans-serif;&quot;&gt;Desde el 1 de Octubre al 10 de diciembre aproximadamente. Entre 26 y 30 sesiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 901px;&quot;&gt;&lt;img src=&quot;resources/DIG_1_TRIM.png&quot; alt=&quot;Captura de pantalla del Genially Programaciones del DEPARTAMENTO DE TECNOLOGÍA&quot; title=&quot;Programación 1er Trimestre&quot; width=&quot;901&quot; height=&quot;511&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://x.com/ramondor2&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;J Ramón Dorado&lt;/a&gt;. &lt;a href=&quot;https://view.genially.com/63f79f8dd1de9c0012141bb4/interactive-content-programaciones&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;Programaciones Dpto. Tecnología IES Astaroth&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Temporalización&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', ​Arial, Helvetica, sans-serif;&quot;&gt;Desde el 1 de Octubre al 10 de diciembre aproximadamente. Entre 26 y 30 sesiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -717,7 +723,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752818"></int>
+                     <int value="752841"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -731,7 +737,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19355_116_2.49"></unicode>
+                   <unicode value="19355_116_2.51"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="15">
                     <dictionary>
@@ -742,7 +748,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="DIG_1_TRIM.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/DIG_1_TRIM.png"></string>
+                     <string value="/tmp/tmpWzxHs1/DIG_1_TRIM.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c495760c0bbf2869443fe1abce8da918"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -771,7 +777,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="50"></int>
+              <int value="52"></int>
               <string role="key" value="parentNode"></string>
               <reference key="14"></reference>
              </dictionary>
@@ -879,8 +885,8 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_11_UN_ORDENADOR_A_LA_CARTA/index.html&quot;&gt;1.1. UN ORDENADOR A LA CARTA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_12_ME_SIENTO_CIBERSEGURO/index.html&quot;&gt;1.2 ME SIENTO CIBERSEGURO I&lt;/a&gt;&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_11_UN_ORDENADOR_A_LA_CARTA/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;1.1. UN ORDENADOR A LA CARTA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_12_ME_SIENTO_CIBERSEGURO/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;1.2 ME SIENTO CIBERSEGURO I&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -1337,7 +1343,7 @@
       <instance class="exe.engine.node.Node" reference="26">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="2º TRIMESTRE DIG 4º ESO (En Const)"></unicode>
+        <unicode value="2º TRIMESTRE DIG 4º ESO"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="24">
@@ -1414,7 +1420,10 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/DIG_2_TRIM.png&quot; alt=&quot;Trimestre_2_TyD_2&quot; title=&quot;Trimestre_2_TyD_2&quot; width=&quot;1340&quot; height=&quot;772&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Temporalización&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', ​Arial, Helvetica, sans-serif;&quot;&gt;Desde el 11 de diciembre al 10 de marzo aproximadamente. Entre 30 y 34 sesiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 901px;&quot;&gt;&lt;img src=&quot;resources/DIG_2_TRIM.png&quot; alt=&quot;Programación del Depatamento de Tecnología del IES AStaroth&quot; title=&quot;Digitalización 4º ESO 2º Trimestre&quot; width=&quot;901&quot; height=&quot;519&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://x.com/ramondor2&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;J Ramón Dorado&lt;/a&gt;. &lt;a href=&quot;https://view.genially.com/63f79f8dd1de9c0012141bb4/interactive-content-programaciones&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;Programaciones Dpto. Tecnología IES Astaroth&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Temporalización&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', ​Arial, Helvetica, sans-serif;&quot;&gt;Desde el 11 de diciembre al 10 de marzo aproximadamente. Entre 30 y 34 sesiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1434,7 +1443,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752813"></int>
+                     <int value="752835"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1448,7 +1457,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19350_116_2.56"></unicode>
+                   <unicode value="19350_116_2.58"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="27">
                     <dictionary>
@@ -1459,7 +1468,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="DIG_2_TRIM.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/DIG_2_TRIM.png"></string>
+                     <string value="/tmp/tmpWzxHs1/DIG_2_TRIM.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d6f4fa8735f02b77e69f82467f416895"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1488,7 +1497,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="57"></int>
+              <int value="59"></int>
               <string role="key" value="parentNode"></string>
               <reference key="26"></reference>
              </dictionary>
@@ -1620,7 +1629,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752816"></int>
+                     <int value="752839"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1634,7 +1643,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19351_19352_2.8"></unicode>
+                   <unicode value="19351_19352_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="30">
                     <dictionary>
@@ -1645,7 +1654,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="logo_retotech.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/logo_retotech.png"></string>
+                     <string value="/tmp/tmpWzxHs1/logo_retotech.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="39aee12bdd69db494dc21b3156072dc7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1672,7 +1681,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752819"></int>
+                     <int value="752842"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1686,7 +1695,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="19351_19352_2.9"></unicode>
+                   <unicode value="19351_19352_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="31">
                     <dictionary>
@@ -1697,7 +1706,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="robycad.jpeg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/robycad.jpeg"></string>
+                     <string value="/tmp/tmpWzxHs1/robycad.jpeg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="092a31db2ce80c33a778c0e11e942a19"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1726,7 +1735,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="10"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="26"></reference>
              </dictionary>
@@ -2152,7 +2161,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:2%C2%BA%20TRIMESTRE%20DIG%204%C2%BA%20ESO%20%28En%20Const%29"></string>
+        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:2%C2%BA%20TRIMESTRE%20DIG%204%C2%BA%20ESO"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2164,7 +2173,7 @@
       <instance class="exe.engine.node.Node" reference="40">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="3er TRIMESTRE DIG 4º ESO (En Const)"></unicode>
+        <unicode value="3er TRIMESTRE DIG 4º ESO"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="38">
@@ -2241,7 +2250,10 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/DIG_3_TRIM.png&quot; width=&quot;1389&quot; height=&quot;781&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Trimestre_3_TyD_2&quot; title=&quot;Trimestre_3_TyD_2&quot; /&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Temporalización&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', ​Arial, Helvetica, sans-serif;&quot;&gt;Desde el 11 de Marzo al 10 de junio aproximadamente. Entre 26 y 30 sesiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 900px;&quot;&gt;&lt;img src=&quot;resources/DIG_3_TRIM.png&quot; alt=&quot;Programaciones Dpto. Tecnología IES AStaroth&quot; title=&quot;Digitalización 4º ESO 2º Trimestre&quot; width=&quot;900&quot; height=&quot;506&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://x.com/ramondor2&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;J Ramón Dorado&lt;/a&gt;. &lt;a href=&quot;https://view.genially.com/63f79f8dd1de9c0012141bb4/interactive-content-programaciones&quot; target=&quot;_blank&quot; class=&quot;title&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;Programaciones Dpto. Tecnología IES Astaroth&lt;/em&gt;&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Temporalización&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: 'Atkinson Hyperlegible', ​Arial, Helvetica, sans-serif;&quot;&gt;Desde el 11 de Marzo al 10 de junio aproximadamente. Entre 26 y 30 sesiones.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2261,7 +2273,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752815"></int>
+                     <int value="752838"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2275,7 +2287,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3037_116_2.53"></unicode>
+                   <unicode value="3037_116_2.55"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="41">
                     <dictionary>
@@ -2286,7 +2298,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="DIG_3_TRIM.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/DIG_3_TRIM.png"></string>
+                     <string value="/tmp/tmpWzxHs1/DIG_3_TRIM.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b9d3ed6f738511f66e4164930499c32d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2315,7 +2327,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="54"></int>
+              <int value="56"></int>
               <string role="key" value="parentNode"></string>
               <reference key="40"></reference>
              </dictionary>
@@ -2423,10 +2435,10 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 18pt;&quot;&gt;&lt;a href=&quot;http://localhost:51235/SdA_En_Const_DIG_4_ESO_22_ME_MONTO_MI_PELI/preview/introduccin_al_software_openshot_y_reto.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;3.1 ME MONTO MI PELI &lt;strong&gt;MONTAJE FINAL&lt;/strong&gt; (EDICIÓN DE VÍDEO II)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;3.2. TE VEO EN 3D (TINKERCAD)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_32_Pagina_web/index.html&quot;&gt;3.3 MI PRIMERA PÁGINA WEB&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;3.4 MIS APPS (BITBLOQ O APP INVENTOR)&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;a href=&quot;http://localhost:51235/SdA_En_Const_DIG_4_ESO_22_ME_MONTO_MI_PELI/preview/introduccin_al_software_openshot_y_reto.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;3.1 ME MONTO MI PELI &lt;strong&gt;MONTAJE FINAL&lt;/strong&gt; (EDICIÓN DE VÍDEO II)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_31_TE_VEO_EN_3D/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;3.2. TE VEO EN 3D (TINKERCAD)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_32_Pagina_web/index.html&quot;&gt;3.3 MI PRIMERA PÁGINA WEB&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;a href=&quot;https://ramondor.github.io/SdA_DIG_4_ESO_33_MIS_APPS/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;3.4 MIS APPS (BITBLOQ O APP INVENTOR)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h4&gt;&lt;a href=&quot;https://ramondor.github.io/SmartCap/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GRUPO ESPECIAL RETOTECH &lt;/a&gt;  &lt;img src=&quot;resources/logo_retotech.png&quot; alt=&quot;Logo_Retotech&quot; title=&quot;Logo_Retotech&quot; width=&quot;101&quot; height=&quot;33&quot; /&gt;&lt;/h4&gt;
 &lt;h4&gt;&lt;a href=&quot;https://view.genially.com/67335d3f0250d5b05381f74a/interactive-content-robycad-preparacion&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GRUPO ESPECIAL ROBYCAD &lt;/a&gt; &lt;img src=&quot;resources/robycad.jpeg&quot; alt=&quot;Logo_RobyCad&quot; title=&quot;Logo_RobyCad&quot; width=&quot;100&quot; height=&quot;71&quot; /&gt;&lt;/h4&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -2448,7 +2460,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752817"></int>
+                     <int value="752840"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2462,7 +2474,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3038_19352_2.8"></unicode>
+                   <unicode value="3038_19352_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="44">
                     <dictionary>
@@ -2473,7 +2485,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="logo_retotech.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/logo_retotech.png"></string>
+                     <string value="/tmp/tmpWzxHs1/logo_retotech.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="39aee12bdd69db494dc21b3156072dc7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2500,7 +2512,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752820"></int>
+                     <int value="752843"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2514,7 +2526,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3038_19352_2.9"></unicode>
+                   <unicode value="3038_19352_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="45">
                     <dictionary>
@@ -2525,7 +2537,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="robycad.jpeg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/robycad.jpeg"></string>
+                     <string value="/tmp/tmpWzxHs1/robycad.jpeg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="092a31db2ce80c33a778c0e11e942a19"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2554,7 +2566,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="10"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="40"></reference>
              </dictionary>
@@ -2980,7 +2992,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:3er%20TRIMESTRE%20DIG%204%C2%BA%20ESO%20%28En%20Const%29"></string>
+        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:3er%20TRIMESTRE%20DIG%204%C2%BA%20ESO"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3092,7 +3104,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752814"></int>
+                     <int value="752837"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3106,7 +3118,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="2855_2043_2.46"></unicode>
+                   <unicode value="2855_2043_2.48"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="55">
                     <dictionary>
@@ -3117,7 +3129,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="historia_de_instagram_aviso_importante_vacaciones_informativo_elegante_foto_2_.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/historia_de_instagram_aviso_importante_vacaciones_informativo_elegante_foto_2_.png"></string>
+                     <string value="/tmp/tmpWzxHs1/historia_de_instagram_aviso_importante_vacaciones_informativo_elegante_foto_2_.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a50b22d5e6121b5ede0c7dfa0a0b6f2b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3146,7 +3158,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="47"></int>
+              <int value="49"></int>
               <string role="key" value="parentNode"></string>
               <reference key="54"></reference>
              </dictionary>
@@ -3202,7 +3214,7 @@
       <instance class="exe.engine.node.Node" reference="58">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Guía didáctica  (En Const)"></unicode>
+        <unicode value="Guía didáctica"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="56">
@@ -3290,7 +3302,10 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/CANVAS_TYd_2_ESO.png&quot; alt=&quot;Guía Didáctica TyD 2 ESO&quot; title=&quot;Guía Didáctica TyD 2 ESO&quot; width=&quot;900&quot; height=&quot;672&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+              <unicode content="true" value="&lt;div class=&quot;pbl-task-description&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-NC-SA&quot; style=&quot;width: 900px;&quot;&gt;&lt;img src=&quot;resources/Prop_Didac_DIG_4_ESO.png&quot; alt=&quot;Guía Didáctica TyD 2 ESO&quot; title=&quot;Guía Didáctica TyD 2 ESO&quot; width=&quot;900&quot; height=&quot;678&quot; hspace=&quot;auto&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;author&quot;&gt;J Ramón Dorado&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Propuesta_Didactica_DIG_4_ESO&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-NC-SA&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3310,7 +3325,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="752821"></int>
+                     <int value="752844"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3324,7 +3339,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="3017_50_2.138"></unicode>
+                   <unicode value="3017_50_2.141"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="59">
                     <dictionary>
@@ -3333,11 +3348,11 @@
                      <string role="key" value="_package"></string>
                      <reference key="1"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="CANVAS_TYd_2_ESO.png"></string>
+                     <string value="Prop_Didac_DIG_4_ESO.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpJIl6Lg/CANVAS_TYd_2_ESO.png"></string>
+                     <string value="/tmp/tmpWzxHs1/Prop_Didac_DIG_4_ESO.png"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="ef97aa86c968f369e225386756e0f83a"></string>
+                     <string value="9d8f4a966474019732e4dc55158095a0"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -3364,7 +3379,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="139"></int>
+              <int value="142"></int>
               <string role="key" value="parentNode"></string>
               <reference key="58"></reference>
              </dictionary>
@@ -3612,7 +3627,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:Gu%C3%ADa%20did%C3%A1ctica%20%20%28En%20Const%29"></string>
+        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:Gu%C3%ADa%20did%C3%A1ctica"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3624,7 +3639,7 @@
       <instance class="exe.engine.node.Node" reference="64">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Ficha técnica (En Const)"></unicode>
+        <unicode value="Ficha técnica"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="62">
@@ -3718,7 +3733,7 @@
 &lt;p&gt;&lt;strong&gt;Título&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;td style=&quot;width: 496.933px;&quot;&gt;
-&lt;p&gt;TyD_2_ESO: PUENTE LEVADIZO&lt;/p&gt;
+&lt;p&gt;DIG 4º ESO VOLANDO HACIA NUEVOS HORIZONTES&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr valign=&quot;top&quot;&gt;
@@ -3726,7 +3741,7 @@
 &lt;p&gt;&lt;strong&gt;Materia&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;td style=&quot;width: 496.933px;&quot;&gt;
-&lt;p&gt;Tecnología y Digitalización&lt;/p&gt;
+&lt;p&gt;Digitalización&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr valign=&quot;top&quot;&gt;
@@ -3734,7 +3749,7 @@
 &lt;p&gt;&lt;strong&gt;Curso&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;td style=&quot;width: 496.933px;&quot;&gt;
-&lt;p&gt;2º de ESO&lt;/p&gt;
+&lt;p&gt;4º de ESO&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr valign=&quot;top&quot;&gt;
@@ -3742,7 +3757,7 @@
 &lt;p&gt;&lt;strong&gt;Reto o desafío&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/td&gt;
 &lt;td style=&quot;width: 496.933px;&quot;&gt;
-&lt;p&gt;Realizar una MAQUETA DE PUENTE LEVADIZO en varias fases usando mecanismos, Impresión 3D, circuitos eléctricos y programación y control a través de placas Arduino o Microbit, App Inventor&lt;/p&gt;
+&lt;p&gt;En cada Situación de Aprendizaje se plantea un producto final: Presentaciones informáticas, video-exposiciones orales, carteles, programas de Scratch, modelos de IA, álbum de imágenes, vídeos editados, piezas en 3D, páginas web o una aplicación para móviles&lt;/p&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr valign=&quot;top&quot;&gt;
@@ -3818,7 +3833,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:Ficha%20t%C3%A9cnica%20%28En%20Const%29"></string>
+        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:Ficha%20t%C3%A9cnica"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3830,7 +3845,7 @@
       <instance class="exe.engine.node.Node" reference="67">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Créditos (En Const)"></unicode>
+        <unicode value="Créditos"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="65">
@@ -3912,11 +3927,11 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;th style=&quot;width: 436.406px;&quot;&gt;Título&lt;/th&gt;
-&lt;td style=&quot;width: 881.406px;&quot;&gt;TyD_2_ESO: PROYECTO PUENTE LEVADIZO&lt;/td&gt;
+&lt;td style=&quot;width: 881.406px;&quot;&gt;DIG 4º ESO VOLANDO HACIA NUEVOS HORIZONTES&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th style=&quot;width: 436.406px;&quot;&gt;Descripción&lt;/th&gt;
-&lt;td style=&quot;width: 881.406px;&quot;&gt;REA de la asignatura de Tecnología y Digitalización para 2º de ESO donde se trabajan todos los criterios de evaluación mediante situaciones de aprendizaje, cuyo eje vertebrador es la realización de un proyecto técnico en varias fases, aplicando los saberes básicos correspondientes a esta asignatura y nivel según el currículo oficial LOMLOE adaptado a la Comunidad de Andalucía.&lt;/td&gt;
+&lt;td style=&quot;width: 881.406px;&quot;&gt;REA de la asignatura de Digitalización para 4º de ESO donde se trabajan todos los criterios de evaluación mediante situaciones de aprendizaje, aplicando los saberes básicos correspondientes a esta asignatura y nivel según el currículo oficial LOMLOE adaptado a la Comunidad de Andalucía.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th style=&quot;width: 436.406px;&quot;&gt;Persona elaboradora de contenido&lt;/th&gt;
@@ -4054,43 +4069,14 @@
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-udlContent exe-udlContent-representation&quot;&gt;&lt;section class=&quot;exe-udlContent-block&quot;&gt;&lt;div class=&quot;exe-udlContent-content&quot;&gt;&lt;div class=&quot;exe-udlContent-content-main&quot;&gt;&lt;p&gt;Para la elaboración de este REA se han utilizado una serie de recursos originales, algunos en formato eXeLearning, otros en otros formatos, y se han modificado y adaptado con recursos propios.&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recurso original del Tema: El ordenador: Hardware y Software:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://rea.ceibal.edu.uy/rea/se-mira-y-se-toca-el-hardware-de-una-computadora&quot;&gt;Se mira y se toca. El hardware de una computadora - Alejandra Gandaria&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recurso original del Tema: Nuestro SuperProyecto y Aprendemos Mecanismos:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://escholarium.educarex.es/useruploads/r/c/145377/scorm_imported/85296829294338279426/index.html&quot;&gt;Maquinando-TEC - Mª Luz del Viejo Escolar&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Recurso original del Tema: Nuestros Dibujos Espaciales:&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&quot;&lt;a href=&quot;https://descargas.intef.es/recursos_educativos/ODES_SGOA/ESO/Digitalizacion/7A4_SA_ESO_TD1-3_CDAlumnado/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Un ordenador a su medida&lt;/a&gt;&quot; de Francisco Javier López Iglesias,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/62e31661-766c-4d6b-9f77-68fd4884bcba/1/COM_2ESO_REA_05_v.01.zip/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;¿Controlas las redes? No dejes que te controlen&lt;/a&gt;&quot; y &quot;&lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/d1bb5f09-682f-4e93-a799-e90b1c3364ed/2/COM_3ESO_REA_01_V02.zip/index.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hola, ¿necesitas ayuda?&lt;/a&gt;&quot; del &lt;a href=&quot;https://portals.ced.junta-andalucia.es/educacion/portals/web/transformacion-digital-educativa/rea&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Proyecto REA/DUA Andalucía&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pelandintecno.blogspot.com/search?q=gimp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pelandintecno.blogspot.com/search?q=gimp&lt;/a&gt; de&amp;nbsp;Pedro Landín&lt;/p&gt;
+&lt;ul style=&quot;list-style-type: disc;&quot;&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/b0cb21dd-aa43-4fe8-a595-ceedde111f2c/1/COM_4ESO_REA_01_V01.zip/index.html&quot;&gt;¿Pasaremos nuestras vacaciones en el espacio? - Proyecto REA Andalucía&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recurso original del Tema: El tour de la factura Eléctrica:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://escholarium.educarex.es/Cursos/c154807_c5038805__Principal.php#home&quot;&gt;El tour de la factura Eléctrica – Proyecto CREA Educarex – Junta de Extremadura&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recurso original del Tema: Mi vivienda eficiente:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://escholarium.educarex.es/coursePlayer/clases2.php?editar=0&amp;amp;idcurso=155965&amp;amp;idclase=5467351&amp;amp;modo=0#&quot;&gt;Mi vivienda eficiente - Proyecto CREA Educarex – Junta de Extremadura&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recurso original del Tema: ¿Controlas las redes? No dejes que te controlen:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/62e31661-766c-4d6b-9f77-68fd4884bcba/1/COM_2ESO_REA_05_v.01.zip/index.html&quot;&gt;¿Controlas las redes? No dejes que te controlen - Proyecto REA Andalucía&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recurso original del Tema: Microbit:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://rea.ceibal.edu.uy/elp/a-crear-con-microbit/ficha.html&quot;&gt;A programar con Microbit - Lucas Chiossi&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recurso original del Tema:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/582f1753-1c5d-45fb-be92-3c2312735f1b/1/ROB_6PRI_REA_01_V01.zip/index.html&quot;&gt;Scratch: Hola, soy yo - Proyecto REA Andalucía&lt;/a&gt;&lt;/p&gt;
-&lt;ul style=&quot;list-style-type: disc;&quot;&gt;
-&lt;li&gt;Recursos originales del Tema: Arduino y App Inventor.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.yourtechnologyweb.com/ejercicios-1o-eso/ejercicios-de-tinkercad/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.yourtechnologyweb.com/ejercicios-1o-eso/ejercicios-de-tinkercad/&lt;/a&gt; de &lt;a href=&quot;https://www.yourtechnologyweb.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.yourtechnologyweb.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://graasp.eu/resources/629caa68629558385563aa2a/index.html&quot;&gt;RETOS A LA VISTA – J Ramón Dorado&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/9eaaccaa-81d3-4a07-9766-3e4a10462e57/1/COM_2ESO_REA_01_V01.zip/index.html&quot;&gt;Dame una app - Proyecto REA Andalucía&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://edea.juntadeandalucia.es/bancorecursos/file/9eaaccaa-81d3-4a07-9766-3e4a10462e57/1/COM_2ESO_REA_01_V01.zip/index.html&quot;&gt;Dame una app&lt;/a&gt;&amp;nbsp;del &lt;a href=&quot;https://portals.ced.junta-andalucia.es/educacion/portals/web/transformacion-digital-educativa/rea&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Proyecto REA Andalucía&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.fundacionendesa.org/es/educacion/retotech-proyecto-de-innovacion-educativa&quot;&gt;Retotech de la Fundación Endesa&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;El resto del material utilizado para la elaboración del recurso es del banco de recursos del departamento de Tecnología del IES Astaroth o pertenecen a bancos de recursos libres tales como &lt;a href=&quot;https://www.freepik.es/&quot;&gt;FreePik&lt;/a&gt;, &lt;a href=&quot;https://www.pexels.com/es-es/&quot;&gt;Pexels&lt;/a&gt;, &lt;a href=&quot;https://pixabay.com/es/&quot;&gt;Pixabay&lt;/a&gt; o &lt;a href=&quot;https://www.flaticon.es/&quot;&gt;Flaticon&lt;/a&gt;, tal como se indican en cada una de ellas.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -4239,15 +4225,8 @@
 &lt;th style=&quot;width: 14.3559%; height: 40px; text-align: center;&quot;&gt; Versión:&lt;/th&gt;
 &lt;td style=&quot;width: 10.7178%; height: 20px; text-align: center;&quot;&gt;01&lt;/td&gt;
 &lt;td style=&quot;width: 19.2724%; height: 40px; text-align: center;&quot;&gt;&lt;strong&gt;Fecha de publicación:&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/td&gt;
-&lt;td style=&quot;width: 23.3038%; height: 20px; text-align: center;&quot;&gt;Diciembre 2022&lt;/td&gt;
+&lt;td style=&quot;width: 23.3038%; height: 20px; text-align: center;&quot;&gt;Febrero 2025&lt;/td&gt;
 &lt;td style=&quot;width: 32.35%; text-align: center; height: 20px;&quot;&gt;Primera versión&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;th style=&quot;width: 14.3559%; text-align: center;&quot;&gt; Versión:&lt;/th&gt;
-&lt;td style=&quot;width: 10.7178%; text-align: center;&quot;&gt; 02&lt;/td&gt;
-&lt;td style=&quot;width: 19.2724%; text-align: center;&quot;&gt;&lt;strong&gt;Fecha de publicación:&lt;/strong&gt;&lt;/td&gt;
-&lt;td style=&quot;width: 23.3038%; text-align: center;&quot;&gt;Marzo 2024&lt;/td&gt;
-&lt;td style=&quot;width: 32.35%; text-align: center;&quot;&gt;Segunda versión&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;&lt;/div&gt;"></unicode>
@@ -4450,7 +4429,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:Cr%C3%A9ditos%20%28En%20Const%29"></string>
+        <string value="exe-node:DIG%204%C2%BA%20ESO%20VOLANDO%20HACIA%20NUEVOS%20HORIZONTES:Cr%C3%A9ditos"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4478,9 +4457,9 @@
    <reference key="14"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
-  <unicode value="El producto final es una maqueta de puente levadizo"></unicode>
+  <unicode value=""></unicode>
   <string role="key" value="_preknowledge"></string>
-  <unicode value="No es necsario tener ningún conocimiento previo."></unicode>
+  <unicode value="No es necesario tener ningún conocimiento previo."></unicode>
   <string role="key" value="_templateFile"></string>
   <string value="Base"></string>
   <string role="key" value="anchor_nodes"></string>
@@ -4488,7 +4467,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="40"></reference>
+  <reference key="14"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -4501,7 +4480,7 @@
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
-    <unicode value="En esta SdA comenzaremos a bordar el estudio de la Computación y la Robótica para seguir avanzando en cursos posteriores. Es una programación completa para 1º de ESO de la asignatura de Computación y Robótica."></unicode>
+    <unicode value="En esta SdA abordaremos el estudio todos los criterios de evaluación de la materia Digitalización de 4º de ESO. Es una programación completa para todo el curso."></unicode>
     <string role="key" value="format"></string>
     <unicode value=""></unicode>
     <string role="key" value="identifier"></string>
@@ -4637,24 +4616,7 @@
              <string role="key" value="language"></string>
              <string value="es"></string>
              <string role="key" value="valueOf_"></string>
-             <unicode value="CONOCIMIENTO PREVIO: No es necsario tener ningún conocimiento previo."></unicode>
-            </dictionary>
-           </instance>
-          </list>
-         </dictionary>
-        </instance>
-        <instance class="exe.engine.lom.lomsubs.descriptionSub">
-         <dictionary>
-          <string role="key" value="extensiontype_"></string>
-          <none></none>
-          <string role="key" value="string"></string>
-          <list>
-           <instance class="exe.engine.lom.lomsubs.LangStringSub">
-            <dictionary>
-             <string role="key" value="language"></string>
-             <string value="es"></string>
-             <string role="key" value="valueOf_"></string>
-             <unicode value="OBJETIVOS: El producto final es una maqueta de puente levadizo"></unicode>
+             <unicode value="CONOCIMIENTO PREVIO: No es necesario tener ningún conocimiento previo."></unicode>
             </dictionary>
            </instance>
           </list>
@@ -4781,7 +4743,7 @@
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="En esta SdA comenzaremos a bordar el estudio de la Computaci\xc3\xb3n y la Rob\xc3\xb3tica para seguir avanzando en cursos posteriores. Es una programaci\xc3\xb3n completa para 1\xc2\xba de ESO de la asignatura de Computaci\xc3\xb3n y Rob\xc3\xb3tica."></string>
+            <string value="En esta SdA abordaremos el estudio todos los criterios de evaluaci\xc3\xb3n de la materia Digitalizaci\xc3\xb3n de 4\xc2\xba de ESO. Es una programaci\xc3\xb3n completa para todo el curso."></string>
            </dictionary>
           </instance>
          </list>
@@ -5233,24 +5195,7 @@
              <string role="key" value="language"></string>
              <string value="es"></string>
              <string role="key" value="valueOf_"></string>
-             <unicode value="CONOCIMIENTO PREVIO: No es necsario tener ningún conocimiento previo."></unicode>
-            </dictionary>
-           </instance>
-          </list>
-         </dictionary>
-        </instance>
-        <instance class="exe.engine.lom.lomsubs.descriptionSub">
-         <dictionary>
-          <string role="key" value="extensiontype_"></string>
-          <none></none>
-          <string role="key" value="string"></string>
-          <list>
-           <instance class="exe.engine.lom.lomsubs.LangStringSub">
-            <dictionary>
-             <string role="key" value="language"></string>
-             <string value="es"></string>
-             <string role="key" value="valueOf_"></string>
-             <unicode value="OBJETIVOS: El producto final es una maqueta de puente levadizo"></unicode>
+             <unicode value="CONOCIMIENTO PREVIO: No es necesario tener ningún conocimiento previo."></unicode>
             </dictionary>
            </instance>
           </list>
@@ -5377,7 +5322,7 @@
             <string role="key" value="language"></string>
             <string value="es"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="En esta SdA comenzaremos a bordar el estudio de la Computaci\xc3\xb3n y la Rob\xc3\xb3tica para seguir avanzando en cursos posteriores. Es una programaci\xc3\xb3n completa para 1\xc2\xba de ESO de la asignatura de Computaci\xc3\xb3n y Rob\xc3\xb3tica."></string>
+            <string value="En esta SdA abordaremos el estudio todos los criterios de evaluaci\xc3\xb3n de la materia Digitalizaci\xc3\xb3n de 4\xc2\xba de ESO. Es una programaci\xc3\xb3n completa para todo el curso."></string>
            </dictionary>
           </instance>
          </list>
@@ -5810,13 +5755,13 @@
     <reference key="30"></reference>
     <reference key="44"></reference>
    </list>
-   <string role="key" value="46ec3597e4dbe5eebeb1a585e03105d1"></string>
-   <list>
-    <reference key="74"></reference>
-   </list>
-   <string role="key" value="6d76338e8573aa0bc9bed7bf6b016844"></string>
+   <string role="key" value="5e355885602c06b31aaed9e45f774a1e"></string>
    <list>
     <reference key="9"></reference>
+   </list>
+   <string role="key" value="9d8f4a966474019732e4dc55158095a0"></string>
+   <list>
+    <reference key="59"></reference>
    </list>
    <string role="key" value="a50b22d5e6121b5ede0c7dfa0a0b6f2b"></string>
    <list>
@@ -5830,17 +5775,13 @@
    <list>
     <reference key="15"></reference>
    </list>
-   <string role="key" value="c522042bb86ee70ae1ca2c0cfa597d36"></string>
-   <list>
-    <reference key="5"></reference>
-   </list>
    <string role="key" value="d6f4fa8735f02b77e69f82467f416895"></string>
    <list>
     <reference key="27"></reference>
    </list>
-   <string role="key" value="ef97aa86c968f369e225386756e0f83a"></string>
+   <string role="key" value="d875111fe06524cd4d50df4501d0bffd"></string>
    <list>
-    <reference key="59"></reference>
+    <reference key="5"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
